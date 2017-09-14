@@ -1,7 +1,7 @@
 # Behavior-Driven-Development
-Examples of small projects using BDD to test
+Example of small project using BDD to test
 
--- Open Visual Studio 2013 --
+-> Open Visual Studio 2013
  
 Step 1) Go to TOOLS –> Extension and Updates –> Search by SpecFlow: SpecFlow for Visual Studio 2013 - Install
  
