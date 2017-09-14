@@ -1,0 +1,66 @@
+﻿VS filter: testpath:TestAssembly:UnitTestProject/Feature:SearchPlace_ByDestination/Scenario:Search+Place+by+Destination%2c+Nova+York%2c+Estado+de+Nova+York%2c+Estados+Unidos
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: UnitTestProject/Default - 
+#1: Default - 
+#2: UnitTestProject - 
+#3: SearchPlace_ByDestination - 
+#4: Search Place by Destination, Nova York, Estado de Nova York, Estados Unidos - TestAssembly:UnitTestProject/Feature:SearchPlace_ByDestination/Scenario:Search+Place+by+Destination%2c+Nova+York%2c+Estado+de+Nova+York%2c+Estados+Unidos
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for UnitTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Micheli_C_Santos\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (8.5s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Nova York, Estado de Nova York, Estados Unidos
+Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+Thread#0:T:        [When(@"I search by field Nova York, Estado de Nova York, Estados Unidos")]
+Thread#0:T:public void WhenISearchByFieldNovaYorkEstadoDeNovaYorkEstadosUnidos()
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:B:Then the page returns record found
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: No matching step definition found for one or more steps.
+Thread#0:T:using System;
+Thread#0:T:using TechTalk.SpecFlow;
+Thread#0:T:namespace MyNamespace
+Thread#0:T:{
+Thread#0:T:    [Binding]
+Thread#0:T:    public class StepDefinitions
+Thread#0:T:    {
+Thread#0:T:        [When(@"I search by field Nova York, Estado de Nova York, Estados Unidos")]
+Thread#0:T:public void WhenISearchByFieldNovaYorkEstadoDeNovaYorkEstadosUnidos()
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:T:    }
+Thread#0:T:}
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 13.664998 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

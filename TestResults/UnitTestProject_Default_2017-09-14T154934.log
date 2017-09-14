@@ -1,0 +1,156 @@
+﻿Discovering target: Default
+Discovering tests from assembly: C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: UnitTestProject/Default - 
+#1: Default - 
+#2: UnitTestProject - 
+#3: SearchPlace_ByDestination - 
+#4: Search Place by Destination, Nova York, Estado de Nova York, Estados Unidos - TestAssembly:UnitTestProject/Feature:SearchPlace_ByDestination/Scenario:Search+Place+by+Destination%2c+Nova+York%2c+Estado+de+Nova+York%2c+Estados+Unidos
+#5: Search Place by Destination, Orlando, Flórida, Estados Unidos - TestAssembly:UnitTestProject/Feature:SearchPlace_ByDestination/Scenario:Search+Place+by+Destination%2c+Orlando%2c+Fl%c3%b3rida%2c+Estados+Unidos
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for UnitTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Micheli_C_Santos\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (4.8s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Nova York, Estado de Nova York, Estados Unidos
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.WhenISearchByField("Nova York, Estado...") (4.6s)
+Thread#0:B:Then the page returns record found
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="right"]/div[3]/div/div/div/h1"}
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 14.5519984 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (7.4s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Nova York, Estado de Nova York, Estados Unidos
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.WhenISearchByField("Nova York, Estado...") (3.9s)
+Thread#0:B:Then the page returns record found
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="right"]/div[3]/div/div/div/h1"}
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 16.2351697 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (9.5s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Nova York, Estado de Nova York, Estados Unidos
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.WhenISearchByField("Nova York, Estado...") (7.8s)
+Thread#0:B:Then the page returns record found
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="right"]/div[3]/div/div/div/h1"}
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 22.1710144 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (5.6s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Orlando, Flórida, Estados Unidos
+Thread#0:T:error: unknown error: Element <span>...</span> is not clickable at point (333, 442). Other element would receive the click: <li class="c-autocomplete__item sb-autocomplete__item sb-autocomplete__item-with_photo sb-autocomplete__item--airport sb-autocomplete__item__item--elipsis " data-list-item="" data-i="3" data-value="" data-label="Aeropuerto internacional de Orlando, Orlando, Florida, Estados Unidos" data-title="Aeropuerto internacional de Orlando, Orlando, Florida, Estados Unidos">...</li>
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:B:Then the page returns record found
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 12.3037477 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (5.1s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIHaveOpenedAccommodationsPage() (0.0s)
+Thread#0:B:When I search by field Orlando, Flórida, Estados Unidos
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.WhenISearchByField("Orlando, Flórida,...") (7.0s)
+Thread#0:B:Then the page returns record found
+Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="right"]/div[3]/div/div/div/h1"}
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 16.954424 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:B:Given I am access the application
+Thread#0:T:done: SearchPlace_ByDestinationAndPeriodSteps.GivenIAmAccessTheApplication() (1.1s)
+Thread#0:B:And I have opened Accommodations Page
+Thread#0:T:error: no such window: target window already closed
+Thread#0:T:from unknown error: web view not found
+Thread#0:T:  (Session info: chrome=60.0.3112.113)
+Thread#0:T:  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 6.3.9600 x86_64)
+Thread#0:B:When I search by field Orlando, Flórida, Estados Unidos
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the page returns record found
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 3.5701293 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 2 (test executions: 6)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 2

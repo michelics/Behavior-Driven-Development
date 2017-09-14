@@ -1,0 +1,25 @@
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\Default.srprofile
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Micheli_C_Santos\Documents\Visual Studio 2013\Projects\BDD\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\Default.srprofile
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\TechTalk.SpecRun.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\WebDriver.dll
+C:\Projects\BDD\Booking\UnitTestProject\bin\Debug\WebDriver.xml
+C:\Projects\BDD\Booking\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Projects\BDD\Booking\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Projects\BDD\Booking\UnitTestProject\obj\Debug\UnitTestProject.pdb
